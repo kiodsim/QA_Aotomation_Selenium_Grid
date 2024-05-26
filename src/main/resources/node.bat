@@ -1,0 +1,1 @@
+java -jar selenium-server-4.21.0.jar node --port 5556 --hub http://localhost:5555/grid/register
